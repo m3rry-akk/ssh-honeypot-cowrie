@@ -1,4 +1,5 @@
 # 🍯 SSH Honeypot Lab — Catching Attackers with Cowrie
+🔗 [View my portfolio with this lab!](https://akksec.github.io) · Built by [akksec](https://github.com/akksec)
 
 A hands-on cybersecurity project simulating a vulnerable Linux server, deployed to capture, log, and analyze real attacker behavior using the **Cowrie SSH/Telnet honeypot**.
 
